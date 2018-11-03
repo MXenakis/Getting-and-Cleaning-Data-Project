@@ -6,7 +6,7 @@
 
 Author: Michael Xenakis <br />
 
-Original Data Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+Original Data Location: [UC Irvine Repository](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 CodeBook: [CodeBook File](XXXXXXX)
 
