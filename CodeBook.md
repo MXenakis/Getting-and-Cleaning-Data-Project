@@ -1,7 +1,7 @@
 ![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6d/aac7c069b611e39de639278c4f9dba/ObtainingData.jpg?auto=format%2Ccompress&dpr=2&w=80&h=80&fit=fill&bg=FFF)
 
 ## Getting and Cleaning Data by Johns Hopkins in Coursera
-## Project
+## PROJECT
 
 ## CodeBook
 
