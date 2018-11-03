@@ -8,7 +8,7 @@ Author: Michael Xenakis <br />
 
 Original Data Location: [UC Irvine Repository](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
-CodeBook: [CodeBook File](XXXXXXX)
+CodeBook: [CodeBook File](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
 
 ## Project Requirements
 Create one R script called run_analysis.R that does the following.
