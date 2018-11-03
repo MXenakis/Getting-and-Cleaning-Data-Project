@@ -42,7 +42,7 @@ Github Repository | Repository |  [Repository Link](https://github.com/MXenakis/
 README file | Current File |  [Readme Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/README.md)
 R-Script |  run_analysis.R |  [R-Script Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/run_analysis.R)
 New - Tidy -  Data Set |  Cleaned DataSet |  [DataSet Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/MytidyDataSet.txt)
-CodeBook | CodeBook.md |  [CodeBook Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/CodeBook.md)
+CodeBook | CodeBook.md |  [CodeBook Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
 
 
 
