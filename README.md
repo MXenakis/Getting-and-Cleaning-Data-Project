@@ -1,12 +1,13 @@
 ![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6d/aac7c069b611e39de639278c4f9dba/ObtainingData.jpg?auto=format%2Ccompress&dpr=2&w=80&h=80&fit=fill&bg=FFF)
 
 ## Getting and Cleaning Data by Johns Hopkins in Coursera
-## Project
+## PROJECT
 ## README FILE
 
 Author: Michael Xenakis <br />
 
 Original Data Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+
 CodeBook: [CodeBook File](XXXXXXX)
 
 ## Project Requirements
@@ -37,11 +38,11 @@ The aim is to prepare tidy data that can be used for later analysis.You will be 
 
 Aim | Item | Link
 --- | --- | ---
-Github Repository | Repository |  [Repository Link]()
-README file | Current File |  [Repo Link]()
-R-Script |  run_analysis.R |  [R-Script]()
-Tidy Data Set |  Cleaned DataSet |  [DataSet]()
-CodeBook | CodeBook.md |  [Repo Link]()
+Github Repository | Repository |  [Repository Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project)
+README file | Current File |  [Repo Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/README.md)
+R-Script |  run_analysis.R |  [R-Script](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/run_analysis.R)
+Tidy Data Set |  Cleaned DataSet |  [DataSet](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/MytidyDataSet.txt)
+CodeBook | CodeBook.md |  [Repo Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/CodeBook.md)
 
 
 
