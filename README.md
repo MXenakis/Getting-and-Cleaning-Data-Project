@@ -39,7 +39,7 @@ The aim is to prepare tidy data that can be used for later analysis.You will be 
 Aim | Item | Link
 --- | --- | ---
 Github Repository | Repository |  [Repository Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project)
-README file | Current File |  [Readme Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/README.md)
+README file | Current File |  [Readme Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/blob/master/README.md)
 R-Script |  run_analysis.R |  [R-Script Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/run_analysis.R)
 New - Tidy -  Data Set |  Cleaned DataSet |  [DataSet Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/edit/master/MytidyDataSet.txt)
 CodeBook | CodeBook.md |  [CodeBook Link](https://github.com/MXenakis/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
